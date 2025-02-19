@@ -1,0 +1,4 @@
+#Tue Feb 18 17:20:36 EET 2025
+base.0=D\:\\development\\MobileApps\\alkan_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
